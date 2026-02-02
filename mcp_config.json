@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "hello-world-app": {
+      "url": "http://localhost:3000/sse",
+      "name": "Hello World App",
+      "description": "一个简单的 MCP 服务器，提供 hello 工具返回 Hello World!"
+    }
+  }
+}
+
